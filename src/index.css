@@ -99,11 +99,11 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 }
 
 @media (max-width: 900px) {
-  .header-inner { padding: 10px 0; gap: 8px; }
-  .logo { gap: 8px; flex-shrink: 1; min-width: 0; }
-  .logo img { width: 32px; height: 32px; flex-shrink: 0; }
-  .logo-name { font-size: 14px; white-space: nowrap; }
-  .logo-tag { font-size: 9px; }
+  .header-inner { padding: 12px 0; gap: 10px; }
+  .logo { gap: 10px; flex-shrink: 1; min-width: 0; }
+  .logo img { width: 40px; height: 40px; flex-shrink: 0; }
+  .logo-name { font-size: 15.5px; white-space: nowrap; }
+  .logo-tag { font-size: 10px; }
   .nav { display: none; position: absolute; top: 100%; left: 0; right: 0;
     background: #fff; flex-direction: column; padding: 24px; gap: 20px;
     border-bottom: 1px solid var(--line); box-shadow: var(--shadow-md); }
@@ -364,11 +364,12 @@ section { padding: 80px 0; }
   box-shadow: 0 10px 30px -10px rgba(0,0,0,0.08);
   border-left: 6px solid var(--blue-deep);
   max-width: 100%; box-sizing: border-box;
+  overflow: hidden;
 }
 @media (max-width: 600px) {
-  .contact-info { padding: 24px 20px; }
-  .contact-row { gap: 12px; }
-  .contact-row .ico { width: 40px; height: 40px; }
+  .contact-info { padding: 30px 20px; width: 100%; }
+  .contact-row { gap: 12px; margin-bottom: 24px; }
+  .contact-row .ico { width: 42px; height: 42px; }
   .contact-row .val { font-size: 15px; }
 }
 .contact-row {
