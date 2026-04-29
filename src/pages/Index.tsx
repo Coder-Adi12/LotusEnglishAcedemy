@@ -153,7 +153,7 @@ const Index = () => {
                 Spoken English + Soft Skills + Interview Skills — special combo discount.
               </p>
             </div>
-            <a className="btn btn-wa" href={wa("Hi! I'm interested in the ₹6000 combo offer (Spoken English + Soft Skills + Interview Skills).")} target="_blank" rel="noopener"
+            <a className="btn btn-wa" href={wa("Hi! I'm interested in the combo offer (Spoken English + Soft Skills + Interview Skills).")} target="_blank" rel="noopener"
               data-en="Claim Offer on WhatsApp →" data-mr="व्हॉट्सॲपवर ऑफर मिळवा →">Claim Offer on WhatsApp →</a>
           </div>
         </section>
