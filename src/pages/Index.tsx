@@ -146,8 +146,8 @@ const Index = () => {
             <div className="offer-text">
               <span className="offer-badge" data-en="🔥 Limited Seats" data-mr="🔥 मर्यादित जागा">🔥 Limited Seats</span>
               <h3>
-                <span data-en="Join 3 Courses in just " data-mr="3 कोर्सेस फक्त ">Join 3 Courses in just </span>
-                <span className="price">₹6000/-</span>
+                <span data-en="Unlock Special Combo Offer " data-mr="विशेष कॉम्बो ऑफर अनलॉक करा"> Unlock Special Combo Offer </span>
+
               </h3>
               <p data-en="Spoken English + Soft Skills + Interview Skills — special combo discount." data-mr="स्पोकन इंग्लिश + सॉफ्ट स्किल्स + इंटरव्ह्यू स्किल्स — खास कॉम्बो ऑफर.">
                 Spoken English + Soft Skills + Interview Skills — special combo discount.
